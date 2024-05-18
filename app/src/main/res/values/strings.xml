@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">laboratoria 5</string>
+    <string name="wzrost_hint">Wzrost (cm)</string>
+    <string name="waga_hint">Waga (kg)</string>
+</resources>
